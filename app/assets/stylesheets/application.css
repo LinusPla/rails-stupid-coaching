@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+ .my_answer{
+  background-color: yellow;
+  border-left: solid 6px grey;
+ }
